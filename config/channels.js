@@ -1,7 +1,7 @@
 /**
  * Available release channels
  * 
- * These channels will be created by the app on startup.
+ * These channels will be created by the app on startup. 
  * 
  * Ordered by descending stability.
  */
